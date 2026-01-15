@@ -7,7 +7,7 @@ BRIDGE_URL = "http://localhost:3002/chat"
 
 class UnrealNexusAI:
     def __init__(self):
-        unreal.log("🛡️ Antigravity_UnrealEngine: AI Live Execution Link Active")
+        unreal.log("🛡️ Antigravity-UnrealEngine-Max: NL Agent Builder Online")
         
     def talk(self, message):
         """Send message and EXECUTE code returned by Gemini"""

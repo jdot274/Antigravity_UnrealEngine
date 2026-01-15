@@ -5,7 +5,7 @@ import json
 SERVER_URL = "http://localhost:3002/chat"
 
 def chat():
-    print("🛡️ ANTIGRAVITY_UNREALENGINE - NLP TERMINAL INTERFACE")
+    print("🛡️ ANTIGRAVITY-UNREALENGINE-MAX - NL AGENT BUILDER")
     print("------------------------------------------")
     print("Type your message to the Nexus AI (Type 'quit' to exit)")
     

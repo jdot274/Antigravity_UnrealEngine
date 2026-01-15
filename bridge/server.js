@@ -66,7 +66,7 @@ function broadcast(type, payload) {
 // --- MCP SERVER ---
 const mcpServer = new Server(
   {
-    name: "Antigravity_UnrealEngine_Bridge",
+    name: "Antigravity-UnrealEngine-Max-Bridge",
     version: "1.1.0",
   },
   {
