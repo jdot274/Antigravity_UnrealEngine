@@ -1,6 +1,18 @@
 # **[Antigravity_UnrealEngine_Max](https://github.com/jdot274/Antigravity_UnrealEngine_Max)**
 
+![Stars](https://img.shields.io/github/stars/jdot274/Antigravity_UnrealEngine_Max?style=for-the-badge&color=gold)
+![License](https://img.shields.io/github/license/jdot274/Antigravity_UnrealEngine_Max?style=for-the-badge&color=green)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.7-0E1128?style=for-the-badge&logo=unrealengine)
+![Language](https://img.shields.io/badge/Language-Python%20%2F%20C%2B%2B-blue?style=for-the-badge)
+
 **Sentient Real-Time Creation in UE. Persistent and evolving node-based multidimensional memory.**
+
+---
+
+## 🎬 Visual Showcase
+> [!TIP]
+> **[INSERT VIDEO/GIF HERE]**
+> *Record the AI manifesting the Monolith Grid and place the link here to capture attention!*
 
 ---
 
@@ -9,6 +21,20 @@ The foundation of this system is the ability for an **AI to procedurally manifes
 
 - **Viewport Projection**: AI-manifested actors, materials, and physics are efficiently synced and projected directly in the viewport.
 - **Architectural Manifestation**: You verbally architect the scene, and the system executes the reality instantly—bridging the gap between natural language intent and environmental state.
+
+---
+
+## 🚀 Quick Start: Manifest Your First Vision
+To witness the power of the **MAX** ecosystem:
+
+1. **Launch**: Use the Nexus Hub or run `python shader_overlay/main.py`.
+2. **Link**: Open your Unreal Engine 5.7 project.
+3. **Command**: In the Unreal Python Console, run:
+   ```python
+   import unreal_ai_link
+   unreal_ai_link.implement('manifest a 10x10 monolith grid')
+   ```
+4. **Result**: Watch as the AI builds your architectural structure in seconds.
 
 ---
 
