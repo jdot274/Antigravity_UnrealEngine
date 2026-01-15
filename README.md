@@ -5,6 +5,8 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.7-0E1128?style=for-the-badge&logo=unrealengine)
 ![Language](https://img.shields.io/badge/Language-Python%20%2F%20C%2B%2B-blue?style=for-the-badge)
 
+**Tags**: `development` • `agentic` • `ai` • `unreal-engine` • `live` • `real-time` • `nexus` • `max`
+
 **Sentient Real-Time Creation in UE. Persistent and evolving node-based multidimensional memory.**
 
 ---
